@@ -1,6 +1,6 @@
 ---
 content_type: resource
-draft: false
+draft: true
 file: null
 file_size: ''
 file_type: ''
