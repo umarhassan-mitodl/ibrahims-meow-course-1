@@ -16,9 +16,9 @@ title: Corporate Ladder
 uid: 143420d3-7c60-410f-b886-f2e9eef3ac53
 video_files:
   archive_url: ''
-  video_captions_file: ''
+  video_captions_file: /courses/ibrahims-meow-course-1-ibrahims-meow-course-1-spring-2022/testvideo12_captions.vtt
   video_thumbnail_file: https://img.youtube.com/vi/amtBUvkweEA/default.jpg
-  video_transcript_file: ''
+  video_transcript_file: /courses/ibrahims-meow-course-1-ibrahims-meow-course-1-spring-2022/testvideo12_transcript.pdf
 video_metadata:
   video_speakers: ''
   video_tags: ''
