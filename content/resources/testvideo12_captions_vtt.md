@@ -2,19 +2,18 @@
 body: ''
 content_type: resource
 draft: false
-file: /gdrive_uploads/ibrahims-meow-course-1/1uvTI3eCys8ZfmcqAaGB0-2Ysv4gcSrpp/testvideo12.mp4
-file_size: 750369
-file_type: video/mp4
+file: /courses/ibrahims-meow-course-1-ibrahims-meow-course-1-spring-2022/testvideo12_captions.vtt
+file_size: 4434
+file_type: text/vtt
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
-learning_resource_types:
-- Activity Assignments
+learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-resourcetype: Video
-title: testvideo12.mp4
-uid: 8eb9a2b7-ebc6-4d6f-8a93-3db4a76506b9
+resourcetype: Document
+title: testvideo12_captions.vtt
+uid: af979f7a-a07c-4a31-83f6-aad0ebe227f3
 video_files:
   archive_url: ''
   video_captions_file: ''
